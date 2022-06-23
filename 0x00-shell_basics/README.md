@@ -1,2 +1,3 @@
 first script is showing working directory
 Second script displays list
+The third script takes the user to the home directory
