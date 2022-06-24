@@ -7,3 +7,5 @@ script to display digits and hidden files
 create a dir in tmp
 script moves file from one loc to another
 deleting betty
+Deleting directory
+Script to move to prev dir
