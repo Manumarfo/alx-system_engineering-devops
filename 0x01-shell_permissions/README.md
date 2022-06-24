@@ -7,3 +7,4 @@ add execute permission to file
 multiple permissions
 execution for all
 james bond
+set perms
